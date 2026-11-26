@@ -8,8 +8,8 @@
 * **Lead Design:** Ruben *(Bewaakt visuele stijl en UI/UX keuzes)*
 * **Lead Git/Dev:** Niels *(Bewaakt code quality en let streng op PR's)*
 ## 3. GitHub & Code Afspraken
-* **Branching:** Niemand commit rechtstreeks naar `main`. We werken via branches.
-* **Pull Requests (PR):** Een PR mag pas worden gemerged als minimaal 1 ander teamlid een "Approve" (Code Review) heeft gegeven.
+* **Ruben:** Aan het begin van elke les phpstorm openen en branch checkout zodat alle bestanden veilig zijn opgeslagen.
+* **Niels:** Dat ik vaker spullen naar main moet pushen zodat de mensen kunnen zien wat ik aan het doen ben
 ## 4. De Pre-Mortem (Risico Analyse)
 *Fast-forward naar week 7: het project is genadeloos gefaald. Wat ging er mis en hoe voorkomen we dit nu al?*
 * **Risico 1:** [Bijv: We liepen vast op technische obstakels]
